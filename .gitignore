@@ -1,0 +1,9 @@
+node_modules
+/.idea
+/.vscode
+bower_components
+npm-debug.log
+public
+public_production
+coverage
+logs
